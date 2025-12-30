@@ -1,0 +1,1 @@
+Time: 18.76 seconds, Board Size: 10x10, Mines: 10

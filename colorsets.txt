@@ -1,0 +1,59 @@
+Set 1: Warm and Earthy Tones
+
+    #D2691E (Chocolate)
+    #FF7F50 (Coral)
+    #FFD700 (Gold)
+    #8B4513 (SaddleBrown)
+    #CD5C5C (IndianRed)
+    #F4A460 (SandyBrown)
+    #DEB887 (BurlyWood)
+    #A0522D (Sienna)
+    #FFFFFF
+
+Set 2: Cool and Calming Tones
+
+    #4682B4 (SteelBlue)
+    #5F9EA0 (CadetBlue)
+    #B0C4DE (LightSteelBlue)
+    #AFEEEE (PaleTurquoise)
+    #ADD8E6 (LightBlue)
+    #87CEEB (SkyBlue)
+    #00CED1 (DarkTurquoise)
+    #20B2AA (LightSeaGreen)
+    #FFFFFF
+
+Set 3: Vibrant and Energetic Tones
+
+    #FF4500 (OrangeRed)
+    #FF6347 (Tomato)
+    #FFD700 (Gold)
+    #ADFF2F (GreenYellow)
+    #32CD32 (LimeGreen)
+    #00FF7F (SpringGreen)
+    #1E90FF (DodgerBlue)
+    #FF1493 (DeepPink)
+    #FFFFFF
+
+Set 4: Soft and Pastel Tones
+
+    #FFB6C1 (LightPink)
+    #FFDAB9 (PeachPuff)
+    #E6E6FA (Lavender)
+    #FFFACD (LemonChiffon)
+    #D8BFD8 (Thistle)
+    #F5DEB3 (Wheat)
+    #E0FFFF (LightCyan)
+    #F0E68C (Khaki)
+    #000000
+
+Set 5: Dark and Moody Tones
+
+    #2F4F4F (DarkSlateGray)
+    #556B2F (DarkOliveGreen)
+    #8B0000 (DarkRed)
+    #483D8B (DarkSlateBlue)
+    #2E8B57 (SeaGreen)
+    #4B0082 (Indigo)
+    #800000 (Maroon)
+    #191970 (MidnightBlue)
+    #FFFFFF
